@@ -1,0 +1,20 @@
+{
+  // Required
+  "manifest_version": 2,
+  "name": "JS Indexation Checker",
+  "description": "A simple extension that allows to quickly check if the selected text appears on Google. Use right-click context menu.",
+  "version": "1.0",
+  "icons": {
+    "128": "logo.png"
+  },
+
+  // Optional
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ],
+
+  "background": {
+    "page": "background.html"
+  }
+}
