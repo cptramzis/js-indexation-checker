@@ -10,3 +10,5 @@ How to use:
 3. Turn on "Developer Mode".
 4. Click "Load Unpacked" and select extension folder.
 5. Select any text, make a right-click and select "Is selection indexed?".
+
+![Example](https://i.imgur.com/mNHyXQo.gif)
